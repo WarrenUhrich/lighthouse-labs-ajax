@@ -21,4 +21,6 @@ fetch(AJAX_URL)
     })
     .catch((error) => {
         console.error(error);
+
+        document.body.innerHTML += `<p>Error encountered, no result found.</p>`;
     });
