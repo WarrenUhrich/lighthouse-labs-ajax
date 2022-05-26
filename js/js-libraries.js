@@ -6,7 +6,7 @@ $(document).ready(() => {
         // Prevent form submitting / new pageload.
         event.preventDefault();
 
-        // Retreiving the search field and value.
+        // Retrieving the search field and value.
         const $searchInput = $('#js-library-name');
         const searchValue = $searchInput.val();
 
