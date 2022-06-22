@@ -1,6 +1,6 @@
 # Lighthouse Labs | AJAX
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ajax/tree/2022.06.22-web-ft-east-30may2022) | [Vimeo Video Recording (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ajax/tree/2022.06.22-web-ft-east-30may2022) | [Vimeo Video Recording](https://vimeo.com/723050003/b46814b432)
 
 * [X] What is AJAX?
 * [X] Using AJAX
