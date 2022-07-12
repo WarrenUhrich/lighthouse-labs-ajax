@@ -1,6 +1,6 @@
 # Lighthouse Labs | Ajax
 
-* [ ] What is AJAX?
-* [ ] Using AJAX
+* [ ] What is Ajax?
+* [ ] Using Ajax
     * [ ] Vanilla
     * [ ] jQuery
