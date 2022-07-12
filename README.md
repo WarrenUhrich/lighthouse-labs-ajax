@@ -1,2 +1,6 @@
-# lighthouse-labs-ajax
-Lighthouse Labs "AJAX" lecture. 
+# Lighthouse Labs | Ajax
+
+* [ ] What is AJAX?
+* [ ] Using AJAX
+    * [ ] Vanilla
+    * [ ] jQuery
