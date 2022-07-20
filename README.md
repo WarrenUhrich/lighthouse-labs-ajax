@@ -1,5 +1,7 @@
 # Lighthouse Labs | Ajax
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ajax/tree/2022.07.20-web-ft-east-27june2022) | [Vimeo Video Recording](https://vimeo.com/731809125/bfec1177e5)
+
 * [X] What is Ajax?
 * [X] Using Ajax
     * [X] Vanilla
