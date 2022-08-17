@@ -2,6 +2,10 @@ const button = document.querySelector('button');
 
 button.addEventListener('click', () => {
     console.log('Clicked!');
+
+    // Prevent multiple clicks / requests.
+    button.setAttribute('disabled', true);
+
     fetch('https://cat-fact.herokuapp.com/facts')
         .then((response) => {
             return response.json(); // Convert JSON response binary / string into live JS array / object.
@@ -27,8 +31,6 @@ button.addEventListener('click', () => {
                 ul.appendChild(li);
             }
             document.body.appendChild(ul);
-
-            button.setAttribute('disabled', true);
         })
         .catch((error) => {
             console.error(error);
