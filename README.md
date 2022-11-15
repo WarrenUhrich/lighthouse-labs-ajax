@@ -1,6 +1,6 @@
 # Lighthouse Labs | Ajax
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ajax/tree/2022.11.15-web-flex-day-19sept2022) | [Vimeo Video Recording (Coming Soon)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-ajax/tree/2022.11.15-web-flex-day-19sept2022) | [Vimeo Video Recording](https://vimeo.com/771305033/69debe4be2)
 
 * [X] What is Ajax?
 * [X] Using Ajax
